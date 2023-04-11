@@ -1,0 +1,19 @@
+{
+    "incomes": [
+        {
+            "date": 1678673916091,
+            "number": 1,
+            "amount": 100,
+            "name": "One Hundred Dollars",
+            "category": 2
+        },
+        {
+            "date": 1678673916091,
+            "number": 2,
+            "amount": 200,
+            "name": "Two hundred dollars",
+            "category": 0
+        }
+    ],
+    "expenses": []
+}

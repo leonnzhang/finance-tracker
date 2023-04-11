@@ -1,0 +1,16 @@
+{
+    "incomes": [{
+        "date": 1679470793173,
+        "number": 2,
+        "amount": 123,
+        "name": "ADASD",
+        "category": 2
+    }],
+    "expenses": [{
+        "date": 1679470767851,
+        "number": 1,
+        "amount": 123,
+        "name": "SAVED FROM GUI",
+        "category": 8
+    }]
+}
