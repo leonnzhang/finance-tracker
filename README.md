@@ -1,5 +1,7 @@
 # Equity - Your Personal Finance Manager
 
+> Completed according to the requirements of the 2022W-T2 CPSC210 Term Project.
+
 ## What will the application do?
 The application *Equity* will be a personal finance manager
 created to help people budget, track income and spending,
